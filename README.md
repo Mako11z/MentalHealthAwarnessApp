@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src=![Walkthrough](https://github.com/Mako11z/MentalHealthAwarnessApp/assets/96156575/1727c9db-b589-49d9-a251-3a27caee38e5)
+<img src=![Video Walkthrough](https://github.com/Mako11z/MentalHealthAwarnessApp/assets/96156575/1727c9db-b589-49d9-a251-3a27caee38e5)
+
  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
